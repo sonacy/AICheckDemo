@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 export default function Home() {
-  const bannerText = "Welcome to our website!";
+  const bannerText = "TF boys";
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="fixed top-0 w-full bg-purple-500 text-white text-center py-3">
